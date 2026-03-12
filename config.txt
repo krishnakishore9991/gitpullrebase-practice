@@ -1,0 +1,3 @@
+Course= DevOps
+Institute= QT
+Teacher= Khaja sir
