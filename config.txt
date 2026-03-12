@@ -1,3 +1,3 @@
 Course= DevOps
 Institute= QT
-Teacher= Ibrahim sir
+Teacher= Khaja sir
